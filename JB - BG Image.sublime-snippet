@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+style="background-image:url('$1')"]]>
+</content>
+<tabTrigger>bgim</tabTrigger>
+<scope>text.html</scope>
+</snippet>

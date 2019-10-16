@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+<sp class="m"></sp>]]>
+</content>
+<tabTrigger>sp</tabTrigger>
+<scope>text.html</scope>
+</snippet>

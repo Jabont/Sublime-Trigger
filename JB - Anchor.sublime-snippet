@@ -1,0 +1,10 @@
+
+<!-- The Boxes -->
+<snippet>
+<content><![CDATA[
+<a href="#!" class="">$1</a>]]>
+</content>
+<tabTrigger>a</tabTrigger>
+<scope>text.html</scope>
+</snippet>
+

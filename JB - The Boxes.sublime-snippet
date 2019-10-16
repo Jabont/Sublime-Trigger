@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+<theboxes class="top spacing -clip">
+	<box col=""><inner class="">
+		$1
+	</inner></box>
+</theboxes>]]>
+</content>
+<tabTrigger>theb</tabTrigger>
+<scope>text.html</scope>
+</snippet>

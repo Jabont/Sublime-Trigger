@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+/*-- Mobile Version --*/
+@media (max-width: 768px) {
+	$1
+}]]>
+</content>
+<tabTrigger>media</tabTrigger>
+<scope>source.css</scope>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+<link rel="stylesheet" type="text/css" href="http://jabont.com/jayss/jayss.css">
+<!-- <link rel="stylesheet" type="text/css" href="http://jabont.com/jayss/jayss-custom.php?ggfont=Kanit&font=333&bg=fff&cl=673AB7,FBC02D,4527A0,512DA8,FDD835,F9A825">
+<link href="https://fonts.googleapis.com/css?family=Kanit:300,600&amp;subset=thai" rel="stylesheet"> -->
+<link rel="stylesheet" type="text/css" href="style.css">]]>
+</content>
+<tabTrigger>jayss</tabTrigger>
+<scope>text.html</scope>
+</snippet>
+

@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+
+<!--=== The Section Boxes : $1 ===-->
+<section id="$1" class="padding-l-vtc">
+	<div class="cont-pd">
+		
+	</div>
+</section>
+	]]>
+</content>
+<tabTrigger>sec</tabTrigger>
+<scope>text.html</scope>
+</snippet>
+

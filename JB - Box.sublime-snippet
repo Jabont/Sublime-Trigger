@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+<box col=""><inner class="">
+		$1
+</inner></box>]]>
+</content>
+<tabTrigger>box</tabTrigger>
+<scope>text.html</scope>
+</snippet>

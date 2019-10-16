@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+https://via.placeholder.com/$1x$2]]>
+</content>
+<tabTrigger>pl</tabTrigger>
+<scope>text.html</scope>
+</snippet>
+
