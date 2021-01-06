@@ -1,6 +1,6 @@
 <snippet>
 <content><![CDATA[
-<sp class="m"></sp>]]>
+<sp class="$1"></sp>]]>
 </content>
 <tabTrigger>sp</tabTrigger>
 <scope>text.html</scope>
